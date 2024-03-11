@@ -21,7 +21,7 @@ def main_qa(query: str, embedding_model: str, topk: int = 10) -> str:
     chat = ChatOpenAI(temperature=0)
 
     template = """
-    You are a chatbot tp answer questions based on the context below. If you can't 
+    You are a chatbot to answer questions based on the context below. If you can't 
     answer strictly using the provided context, reply "I don't know".
     Think step-by-step and give a detailed and correct answer.
 
