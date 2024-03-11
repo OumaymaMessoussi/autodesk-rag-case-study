@@ -39,5 +39,5 @@ def main_qa(query: str, embedding_model: str, topk: int = 10) -> str:
 
 
 if __name__ == "__main__":
-    results = main_qa("What does Fusion 360 do?", "text-embedding-ada-002")
+    results = main_qa("Can I use fusion 360 on a Mac?", "text-embedding-ada-002")
     print(results)

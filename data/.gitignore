@@ -1,2 +1,4 @@
 *
 !.gitignore
+!chroma.sqlite3
+!preprocessed_data.csv
