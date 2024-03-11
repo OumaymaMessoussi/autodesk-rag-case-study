@@ -1,0 +1,29 @@
+Q: What does Fusion 360 do?
+A: Fusion 360 is an integrated cloud-based software platform that offers CAD (Computer-Aided Design), CAM (Computer-Aided Manufacturing), CAE (Computer-Aided Engineering), and PCB (Printed Circuit Board) capabilities. It allows users to design, engineer, simulate, and manufacture products all in one platform. Fusion 360 enables teams to collaborate, iterate on designs, simulate real-world conditions, optimize product performance, and manage data efficiently throughout the product development process.
+
+
+
+Q: What's the difference between AutoCAD and Revit?
+A: AutoCAD and Revit are both software programs developed by Autodesk, but they serve different purposes in the field of architecture, engineering, and construction (AEC).
+
+AutoCAD is a general-purpose drafting and design software that is widely used for 2D drafting, detailing, and documentation. It is primarily used for creating precise technical drawings, such as floor plans, elevations, and sections. AutoCAD is known for its flexibility and versatility in creating detailed drawings and designs.
+
+On the other hand, Revit is Building Information Modeling (BIM) software that is specifically designed for architectural, structural, and MEP (mechanical, electrical, plumbing) design and documentation. Revit allows users to create 3D models of buildings and infrastructure, and it enables parametric modeling, which means that changes made in one part of the model are automatically updated throughout the entire project. Revit also facilitates collaboration among multidisciplinary project teams and streamlines project management processes.
+
+In summary, while AutoCAD is more focused on 2D drafting and general design tasks, Revit is specialized in 3D modeling, BIM, and collaborative design for architecture, engineering, and construction projects.
+
+
+
+Q: Does AutoCAD LT do 3d?
+A: Yes, AutoCAD LT does not support 3D modeling. It is a cost-effective 2D CAD software primarily used for drafting, drawing, and documentation. If you require 3D modeling capabilities, you would need to use the full version of AutoCAD, which includes support for both 2D and 3D CAD.
+
+
+
+Q: What's the latest release for Maya?
+A: The latest release for Maya is Autodesk Maya Creative 2023.
+
+
+
+Q: Can I use fusion 360 on a Mac?
+A: Yes, Fusion 360 can be used on a Mac. Fusion 360 is a cloud-based software platform for 3D modeling, CAD, CAM, CAE, and PCB design that is compatible with Mac operating systems. You can access Fusion 360 on a Mac computer by downloading the software and installing it on your device.
+
